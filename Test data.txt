@@ -1,0 +1,73 @@
+TEST DATA:
+
+Record 1:
+- Song title: Byekwaso
+- Artist: Bobi Wine
+- Album: Byekwaso
+- Year of release: 2014
+- Audio file: https://www.___.com
+ 
+Record 2:
+- Song title: Kanyimbe
+- Artist: Juliana Kanyomoozi
+- Album: Kanyimbe
+- Year of release: 2005
+- Audio file: https://www.___.com
+
+Record 3:
+- Song title: Signal
+- Artist: King Saha
+- Album: Signal
+- Year of release: 2010
+- Audio file: https://www.___.com
+
+Record 4:
+- Song title: Jordan
+- Artist: Sheebah
+- Album: Nkwatako
+- Year of release: 2014
+- Audio file: https://www.___.com
+
+Record 5:
+- Song title: Katupakase
+- Artist: Jose Chameleone
+- Album: Katupakase
+- Year of release: 2007
+- Audio file: https://www.___.com
+
+Record 6:
+- Song title: Birowoozo
+- Artist: Irene Namubiru
+- Album: Birowoozo
+- Year of release: 2011
+- Audio file: https://www.___.com
+
+Record 7:
+- Song title: Munnakyalo
+- Artist: Madox
+- Album: Namagembe
+- Year of release: 2001
+- Audio file: https://www.___.com
+
+Record 8:
+- Song title: Yesu beera nange
+- Artist: Judith Babirye
+- Album: Yesu beera nange
+- Year of release: 2005
+- Audio file: https://www.___.com
+
+Record 9:
+- Song title: Circumference
+- Artist: Bebe cool
+- Album: Break the chains
+- Year of release: 2024
+- Audio file: https://www.___.com
+
+
+Record 10:
+- Song title: Akaliro
+- Artist: Rema Namakula
+- Album: Akaliro
+- Year of release: 2016
+- Audio file: https://www.___.com
+
